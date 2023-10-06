@@ -3,4 +3,4 @@ This is my first repo
 <BR>
 dinesh and deepthi
 <BR>
-Author - Deepthi Konanki
+Author - Deepthi K
